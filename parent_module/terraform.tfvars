@@ -21,6 +21,12 @@ rg_name = {
     name     = "rg-prod-05"
     location = "westus"
   }
+
+    rg6 = {
+    name     = "rg-prod-06"
+    location = "westus"
+  }
+  
   
 }
 
