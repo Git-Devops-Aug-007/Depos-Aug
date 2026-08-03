@@ -13,6 +13,10 @@ rg_name = {
     name     = "rg-prod-02"
     location = "westus"
   }
+   rgak = {
+    name     = "rg-prod-02"
+    location = "westus"
+  }
   
 }
 
