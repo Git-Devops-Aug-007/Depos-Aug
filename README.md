@@ -1,2 +1,2 @@
-# Depos-Aug
-DevOps-Aig-007-Repo
+# azure-vm
+used to child and parent module with for each
