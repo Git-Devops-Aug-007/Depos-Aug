@@ -5,12 +5,16 @@ rg_name = {
   }
 
   rg2 = {
-    name     = "rg-prod-01"
+    name     = "rg-prod-02"
     location = "westus"
   }
 
    rg3 = {
-    name     = "rg-prod-02"
+    name     = "rg-prod-03"
+    location = "westus"
+  }
+  rg4 = {
+    name     = "rg-prod-04"
     location = "westus"
   }
   
